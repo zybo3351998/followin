@@ -1,0 +1,19 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:p="urn:schemas-microsoft-com:office:powerpoint" xmlns:oa="urn:schemas-microsoft-com:office:activation">
+ <p:presentation gridspacingx="45722" gridspacingy="45722" sizeof="custom" slidesizex="7680" slidesizey="4320">
+  <p:master id="3" type="main" href="master03.htm" xmlhref="master03.xml" template="Office 主题​​">
+   <p:schemes>
+    <p:colorscheme colors="#ffffff,#000000,#e8e8e8,#0e2841,#156082,#e97132,#467886,#96607d"/>
+   </p:schemes>
+  </p:master>
+  <p:slide id="1" href="slide0001.htm" layout="title_subtitle" masterhref="master03.htm"/>
+  <p:slide id="2" href="slide0002.htm" layout="title_body" masterhref="master03.htm"/>
+  <p:slide id="3" href="slide0003.htm" layout="title_subtitle" masterhref="master03.htm"/>
+  <p:slide id="4" href="slide0004.htm" layout="title_subtitle" masterhref="master03.htm"/>
+  <p:slide id="5" href="slide0005.htm" layout="title_subtitle" masterhref="master03.htm"/>
+  <p:slide id="6" href="slide0006.htm" layout="title_subtitle" masterhref="master03.htm"/>
+  <p:slide id="7" href="slide0007.htm" layout="title_subtitle" masterhref="master03.htm"/>
+  <p:viewstate type="slideView" slidehref="slide0001.htm"/>
+  <p:headersfooters formatid="0" nofooter="t" noheader="t" nodate="t"/>
+  <p:pptdocumentsettings framecolors="WhiteTextOnBlack" hideslideanimation="t" browsersupport="v4"/>
+ </p:presentation>
+</xml>
